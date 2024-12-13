@@ -1,6 +1,6 @@
 # App Layout
 
-Projeto desenvolvido no curso Talento Tech.
+Projeto desenvolvido no curso de Desenvolvimento Web.
 
 ## Getting Started
 
