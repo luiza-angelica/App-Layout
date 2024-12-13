@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Projeto desenvolvido no curso Talento Tech.
 
 ## Getting Started
 
